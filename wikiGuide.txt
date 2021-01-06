@@ -1,0 +1,11 @@
+USER WIKI:
+This application allows users to input their favourite colour, number, cuisine, sport and music genre.
+The data is then stored on a database and it can be read in the list page.
+
+you can find your card containing your data and compare it to others all on the same page to see if
+you have similar interests to anybody else.
+
+===========================
+error 404 promps when i click the submit button on the edit doccument page
+also my reload data method doesnt seem to work either after a doccument is deleted.
+
